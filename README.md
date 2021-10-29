@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">I'm Kamisoi (aka. Michael)</h1>
+<h1 align="center">Hi! 👋  I'm Kamisoi (aka. Michael)</h1>
 <h3 align="center">I am somewhat average python programmer</h3>
 
 ![](https://komarev.com/ghpvc/?username=Kamisoi&color=a7a6ba&style=flat&label=Profile+views)
